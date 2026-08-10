@@ -1,5 +1,5 @@
 # 1. Defining the automated processing machine
- def calculate_channel_payout(views, rpm_rate):
+def calculate_channel_payout(views, rpm_rate):
   """
   This function takes total views and the country-specific RPM rate, calculates the dollar earnings, and returns the final amount.
   """
